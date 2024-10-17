@@ -123,4 +123,4 @@ The tasks are saved in a `tasks.json` file in the same directory. Each task has 
 - **JSON**: Used for saving and loading tasks to and from a file.
 
 ## License
-- This project is open-source and available under the MIT License.
+ This project is open-source and available under the MIT License.
